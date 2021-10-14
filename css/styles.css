@@ -4,11 +4,21 @@ body {
 }
 
 .column  {
-  width: 300px;
+  width: 33%;
   float: left;
+  
 }
 
 img {
   width: 250px;
   object-fit: contain;
+}
+
+ul  {
+  text-align: center;
+  list-style: none;
+}
+
+p {
+  text-align: center;
 }
