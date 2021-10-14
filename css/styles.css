@@ -1,0 +1,14 @@
+body {
+  text-align: center;
+  background-color: mediumaquamarine;
+}
+
+.column  {
+  width: 300px;
+  float: left;
+}
+
+img {
+  width: 250px;
+  object-fit: contain;
+}
