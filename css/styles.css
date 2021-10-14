@@ -1,6 +1,8 @@
 body {
   text-align: center;
   background-color: mediumaquamarine;
+  color: red;
+  font-family: sans-serif;
 }
 
 .column  {
@@ -17,8 +19,28 @@ img {
 ul  {
   text-align: center;
   list-style: none;
+  padding-left: 0;
+  list-style-position: inside;
 }
 
 p {
   text-align: center;
+  font-size: 30px;
+  color: darkgoldenrod;
+  font-family: cursive;
+}
+
+h1 {
+  color: dodgerblue;
+  font-size: 70px;
+  font-family: fantasy;
+}
+
+h2 {
+  font-size: 35px;
+}
+
+h3 {
+  color: rgb(252, 2, 127);
+  font-size: 25px;
 }
